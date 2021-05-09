@@ -20,7 +20,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qKNxMVN9g8kGN3TXZqS9VfYcxX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,9 +33,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.codeup_1135">
-    <configuration name="Codeup_1125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeup_1.Codeup_1125" />
+  <component name="RunManager" selected="Application.codeup_1257">
+    <configuration name="codeup_1255" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeup_1.codeup_1255" />
       <module name="CodeUp" />
       <extension name="coverage">
         <pattern>
@@ -45,8 +47,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codeup_1115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeup_1.codeup_1115" />
+    <configuration name="codeup_1257" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeup_1.codeup_1257" />
       <module name="CodeUp" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codeup_1121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeup_1.codeup_1121" />
+    <configuration name="codeup_1258" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeup_1.codeup_1258" />
       <module name="CodeUp" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codeup_1131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeup_1.codeup_1131" />
+    <configuration name="codeup_1259" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeup_1.codeup_1259" />
       <module name="CodeUp" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codeup_1135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeup_1.codeup_1135" />
+    <configuration name="codeup_1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeup_1.codeup_1260" />
       <module name="CodeUp" />
       <extension name="coverage">
         <pattern>
@@ -98,19 +100,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.codeup_1115" />
-      <item itemvalue="Application.codeup_1121" />
-      <item itemvalue="Application.Codeup_1125" />
-      <item itemvalue="Application.codeup_1131" />
-      <item itemvalue="Application.codeup_1135" />
+      <item itemvalue="Application.codeup_1255" />
+      <item itemvalue="Application.codeup_1260" />
+      <item itemvalue="Application.codeup_1259" />
+      <item itemvalue="Application.codeup_1258" />
+      <item itemvalue="Application.codeup_1257" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.codeup_1135" />
-        <item itemvalue="Application.codeup_1131" />
-        <item itemvalue="Application.Codeup_1125" />
-        <item itemvalue="Application.codeup_1121" />
-        <item itemvalue="Application.codeup_1115" />
+        <item itemvalue="Application.codeup_1257" />
+        <item itemvalue="Application.codeup_1258" />
+        <item itemvalue="Application.codeup_1259" />
+        <item itemvalue="Application.codeup_1260" />
+        <item itemvalue="Application.codeup_1255" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +149,7 @@
       <workItem from="1620180185751" duration="947000" />
       <workItem from="1620216005207" duration="2103000" />
       <workItem from="1620386947171" duration="1627000" />
-      <workItem from="1620542726377" duration="1933000" />
+      <workItem from="1620542726377" duration="3421000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1620543954899</created>
@@ -183,29 +185,29 @@
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state x="309" y="34" key="CommitChangelistDialog2/0.25.1440.821@0.25.1440.821" timestamp="1620544142698" />
-    <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1620544735301">
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1620550188504">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1617699823529" />
-    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.25.1440.821@0.25.1440.821" timestamp="1620544735301" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.25.1440.821@0.25.1440.821" timestamp="1620550188504" />
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.25.1440.822@0.25.1440.822" timestamp="1620388310440" />
-    <state width="1398" height="209" key="GridCell.Tab.0.center" timestamp="1620544735301">
+    <state width="1398" height="209" key="GridCell.Tab.0.center" timestamp="1620550188503">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1617699823528" />
-    <state width="1398" height="209" key="GridCell.Tab.0.center/0.25.1440.821@0.25.1440.821" timestamp="1620544735301" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.25.1440.821@0.25.1440.821" timestamp="1620550188503" />
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.25.1440.822@0.25.1440.822" timestamp="1620388310439" />
-    <state width="1398" height="209" key="GridCell.Tab.0.left" timestamp="1620544735300">
+    <state width="1398" height="209" key="GridCell.Tab.0.left" timestamp="1620550188503">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1617699823527" />
-    <state width="1398" height="209" key="GridCell.Tab.0.left/0.25.1440.821@0.25.1440.821" timestamp="1620544735300" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.25.1440.821@0.25.1440.821" timestamp="1620550188503" />
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.25.1440.822@0.25.1440.822" timestamp="1620388310439" />
-    <state width="1398" height="209" key="GridCell.Tab.0.right" timestamp="1620544735301">
+    <state width="1398" height="209" key="GridCell.Tab.0.right" timestamp="1620550188504">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1617699823528" />
-    <state width="1398" height="209" key="GridCell.Tab.0.right/0.25.1440.821@0.25.1440.821" timestamp="1620544735301" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.25.1440.821@0.25.1440.821" timestamp="1620550188504" />
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.25.1440.822@0.25.1440.822" timestamp="1620388310440" />
     <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1617182539262">
       <screen x="0" y="25" width="1440" height="821" />
