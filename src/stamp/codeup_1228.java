@@ -6,7 +6,7 @@ import java.util.Scanner;
 /*
 작성 날짜 2021년 5월18일 화요일 오후 8:52분
 작성자:Kenan
-작정위치:어느 카페 
+작정위치:어느 카페
  */
 public class codeup_1228 {
     public static void main(String[]args){

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="edf1af71-a869-46cd-bbd1-9a58835e938f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stamp/codeup_1228.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stamp/codeup_1228.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,26 +34,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.codeup_1228">
-    <configuration name="codeup_1138" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeup_1.codeup_1138" />
+  <component name="RunManager" selected="Application.codeup_1103">
+    <configuration name="codeup_1103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stamp.codeup_1103" />
       <module name="CodeUp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codeup_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="codeup_1139" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeup_1.codeup_1139" />
-      <module name="CodeUp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeup_1.*" />
+          <option name="PATTERN" value="stamp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,20 +87,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="codeup_1229" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stamp.codeup_1229" />
+      <module name="CodeUp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.codeup_1138" />
-      <item itemvalue="Application.codeup_1139" />
       <item itemvalue="Application.codeup_1140" />
       <item itemvalue="Application.codeup_1141" />
       <item itemvalue="Application.codeup_1228" />
+      <item itemvalue="Application.codeup_1229" />
+      <item itemvalue="Application.codeup_1103" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.codeup_1103" />
+        <item itemvalue="Application.codeup_1229" />
         <item itemvalue="Application.codeup_1228" />
         <item itemvalue="Application.codeup_1141" />
         <item itemvalue="Application.codeup_1140" />
-        <item itemvalue="Application.codeup_1139" />
-        <item itemvalue="Application.codeup_1138" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +155,7 @@
       <workItem from="1621074559347" duration="846000" />
       <workItem from="1621145490643" duration="207000" />
       <workItem from="1621316088770" duration="1167000" />
-      <workItem from="1621338250602" duration="530000" />
+      <workItem from="1621338250602" duration="2533000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1620543954899</created>
@@ -190,50 +191,50 @@
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state x="309" y="34" key="CommitChangelistDialog2/0.25.1440.821@0.25.1440.821" timestamp="1620544142698" />
-    <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1621338738159">
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1621340962489">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1617699823529" />
-    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.25.1440.821@0.25.1440.821" timestamp="1621338738159" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.25.1440.821@0.25.1440.821" timestamp="1621340962489" />
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.25.1440.822@0.25.1440.822" timestamp="1620388310440" />
-    <state width="1398" height="209" key="GridCell.Tab.0.center" timestamp="1621338738158">
+    <state width="1398" height="209" key="GridCell.Tab.0.center" timestamp="1621340962488">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1617699823528" />
-    <state width="1398" height="209" key="GridCell.Tab.0.center/0.25.1440.821@0.25.1440.821" timestamp="1621338738158" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.25.1440.821@0.25.1440.821" timestamp="1621340962488" />
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.25.1440.822@0.25.1440.822" timestamp="1620388310439" />
-    <state width="1398" height="209" key="GridCell.Tab.0.left" timestamp="1621338738158">
+    <state width="1398" height="209" key="GridCell.Tab.0.left" timestamp="1621340962488">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1617699823527" />
-    <state width="1398" height="209" key="GridCell.Tab.0.left/0.25.1440.821@0.25.1440.821" timestamp="1621338738158" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.25.1440.821@0.25.1440.821" timestamp="1621340962488" />
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.25.1440.822@0.25.1440.822" timestamp="1620388310439" />
-    <state width="1398" height="209" key="GridCell.Tab.0.right" timestamp="1621338738158">
+    <state width="1398" height="209" key="GridCell.Tab.0.right" timestamp="1621340962489">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1617699823528" />
-    <state width="1398" height="209" key="GridCell.Tab.0.right/0.25.1440.821@0.25.1440.821" timestamp="1621338738158" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.25.1440.821@0.25.1440.821" timestamp="1621340962489" />
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.25.1440.822@0.25.1440.822" timestamp="1620388310440" />
-    <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1617182539262">
+    <state width="699" height="260" key="GridCell.Tab.1.bottom" timestamp="1621340208155">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.25.1440.820@0.25.1440.820" timestamp="1617155909053" />
-    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.25.1440.821@0.25.1440.821" timestamp="1617182539262" />
-    <state width="1398" height="260" key="GridCell.Tab.1.center" timestamp="1617182539262">
+    <state width="699" height="260" key="GridCell.Tab.1.bottom/0.25.1440.821@0.25.1440.821" timestamp="1621340208155" />
+    <state width="699" height="260" key="GridCell.Tab.1.center" timestamp="1621340208154">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state width="1398" height="260" key="GridCell.Tab.1.center/0.25.1440.820@0.25.1440.820" timestamp="1617155909053" />
-    <state width="1398" height="260" key="GridCell.Tab.1.center/0.25.1440.821@0.25.1440.821" timestamp="1617182539262" />
-    <state width="1398" height="260" key="GridCell.Tab.1.left" timestamp="1617182539262">
+    <state width="699" height="260" key="GridCell.Tab.1.center/0.25.1440.821@0.25.1440.821" timestamp="1621340208154" />
+    <state width="699" height="260" key="GridCell.Tab.1.left" timestamp="1621340208154">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state width="1398" height="260" key="GridCell.Tab.1.left/0.25.1440.820@0.25.1440.820" timestamp="1617155909053" />
-    <state width="1398" height="260" key="GridCell.Tab.1.left/0.25.1440.821@0.25.1440.821" timestamp="1617182539262" />
-    <state width="1398" height="260" key="GridCell.Tab.1.right" timestamp="1617182539262">
+    <state width="699" height="260" key="GridCell.Tab.1.left/0.25.1440.821@0.25.1440.821" timestamp="1621340208154" />
+    <state width="699" height="260" key="GridCell.Tab.1.right" timestamp="1621340208155">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state width="1398" height="260" key="GridCell.Tab.1.right/0.25.1440.820@0.25.1440.820" timestamp="1617155909053" />
-    <state width="1398" height="260" key="GridCell.Tab.1.right/0.25.1440.821@0.25.1440.821" timestamp="1617182539262" />
+    <state width="699" height="260" key="GridCell.Tab.1.right/0.25.1440.821@0.25.1440.821" timestamp="1621340208155" />
     <state x="397" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1621338250391">
       <screen x="0" y="25" width="1440" height="821" />
     </state>
@@ -244,6 +245,10 @@
       <screen x="0" y="25" width="1440" height="821" />
     </state>
     <state x="506" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.821@0.25.1440.821" timestamp="1620544162690" />
+    <state x="271" y="175" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1621340086761">
+      <screen x="0" y="25" width="1440" height="821" />
+    </state>
+    <state x="271" y="175" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.821@0.25.1440.821" timestamp="1621340086761" />
     <state x="123" y="54" key="new project wizard" timestamp="1616976882175">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
@@ -254,5 +259,17 @@
     <state x="385" y="169" width="670" height="676" key="search.everywhere.popup/0.25.1440.820@0.25.1440.820" timestamp="1616825929075" />
     <state x="385" y="169" width="670" height="678" key="search.everywhere.popup/0.25.1440.821@0.25.1440.821" timestamp="1620543351603" />
     <state x="385" y="169" width="670" height="678" key="search.everywhere.popup/0.25.1440.822@0.25.1440.822" timestamp="1618118183062" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="in.decimalPattern" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodeUp$codeup_1229.ic" NAME="codeup_1229 Coverage Results" MODIFIED="1621340010506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>stamp.*</FILTER>
+    </SUITE>
   </component>
 </project>
