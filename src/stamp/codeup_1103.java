@@ -6,7 +6,7 @@ package stamp;
 자성자:Kenan
 
  */
- 
+
 public class codeup_1103 {
     public static void main(String[]args){
         System.out.printf("\"c:\\test\"");

@@ -1,21 +1,21 @@
-package Codeup_1;
+package Codeup_2;
 
 import java.util.Scanner;
 
-public class codeup_1257 {
+public class codeup_1275 {
     public static void main(String[]args){
         Scanner in=new Scanner(System.in);
 
         int a=in.nextInt();
         int b=in.nextInt();
+        int c=1;
+        int d=0;
 
 
-        int c=0;
+        for(int i=1;i<=b;i++){
+            c*=a;
 
-        for(int i=a;i<=b;i++){
-            if(i%2!=0)
-            System.out.printf("%d ",i);
         }
-
+        System.out.println(c);
     }
 }
